@@ -1,0 +1,2 @@
+# maxouscoin
+MaxoCoin Repository
